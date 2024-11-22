@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Billonaire Timeless",
+        "description": "Reloj de lujo con caja de acero inoxidable y una esfera azul brillante.",
+        "price": "$20000000",
+        "image": "https://acortar.link/0EmWTl"
+    },
+    {
+        "id": 2,
+        "name": "Rolex Submariner",
+        "description": "Reloj de buceo icónico con caja de acero inoxidable y bisel cerámico.",
+        "price": "$8999",
+        "image": "https://acortar.link/TpIbT2"
+    },
+    {
+        "id": 3,
+        "name": "Audemars Piguet Royal Oak",
+        "description": "Reloj de lujo con un diseño distintivo de octágono y correa de acero inoxidable.",
+        "price": "$150000",
+        "image": "https://acortar.link/JSM8TW"
+    },
+    {
+        "id": 4,
+        "name": "Tissot PRX",
+        "description": "Reloj clásico con caja de acero inoxidable y movimiento de cuarzo.",
+        "price": "$375",
+        "image": "https://acortar.link/b3zSFQ"
+    },
+    {
+        "id": 5,
+        "name": "Richard Mille RM 011",
+        "description": "Reloj de alta gama con caja de titanio y una estructura impresionante.",
+        "price": "$150000",
+        "image": "https://acortar.link/SNMs0D"
+    },
+    {
+        "id": 6,
+        "name": "Omega Speedmaster",
+        "description": "El 'Moonwatch', famoso por su conexión con la NASA y cronógrafo.",
+        "price": "$5200",
+        "image": "https://acortar.link/kAar6q"
+    },
+    {
+        "id": 7,
+        "name": "Tag Heuer Monaco",
+        "description": "Reloj de cronógrafo con diseño cuadrado y correa de cuero.",
+        "price": "$3500",
+        "image": "https://acortar.link/dV3Ya3"
+    },
+    {
+        "id": 8,
+        "name": "IWC Big Pilot",
+        "description": "Reloj de aviador con gran esfera y correa de cuero marrón.",
+        "price": "$12000",
+        "image": "https://acortar.link/zPWnyg"
+    },
+    {
+        "id": 9,
+        "name": "Jaeger-LeCoultre Reverso",
+        "description": "Reloj con caja reversible, ideal para personalizar el diseño.",
+        "price": "$7500",
+        "image": "https://acortar.link/ejkSA2"
+    },
+    {
+        "id": 10,
+        "name": "Fossil FS4888",
+        "description": "Reloj de aviación con funciones de cronógrafo y escala de navegación.",
+        "price": "$9500000",
+        "image": "https://acortar.link/P082TG"
+    }
+]
